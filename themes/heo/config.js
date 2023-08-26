@@ -5,17 +5,17 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: 'Welcome to my Notion based Knowledge Collection and Shareing Site', url: 'https://notion.51sec.org' },
-    { title: 'Visit Blog for More', url: 'https://blog.51sec.org' }
+    { title: 'Welcome to my Blog', url: 'https://blog.rnz.ro' },
+    
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: 'Searching',
-  HERO_TITLE_2: 'Collecting',
-  HERO_TITLE_3: '51SEC.ORG',
-  HERO_TITLE_4: 'Sharing',
-  HERO_TITLE_5: 'Creating',
-  HERO_TITLE_LINK: 'https://51sec.org',
+  HERO_TITLE_1: 'Test1',
+  HERO_TITLE_2: 'test2',
+  HERO_TITLE_3: 'Test3',
+  HERO_TITLE_4: 'Test4',
+  HERO_TITLE_5: 'Test5',
+  HERO_TITLE_LINK: 'https://rnz.ro',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: 'Tools', url: '/tag/Tools' },
